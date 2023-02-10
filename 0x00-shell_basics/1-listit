@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "$(ls /alx-system_engineering-devvops/0x00-shell_basics)"
+echo "$(ls) /alx-system_engineering-devvops/0x00-shell_basics"
+
