@@ -1,2 +1,2 @@
 #!/bin/bash
-ech "$(ls -lna .)"
+echo "$(ls -lna ..)"
