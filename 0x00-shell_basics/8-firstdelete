@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n "$(rm /tmp/my_first_directory)"
+echo -n "$(rm /tmp/my_first_directory/betty)"
