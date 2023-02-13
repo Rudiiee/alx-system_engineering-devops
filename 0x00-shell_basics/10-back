@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n "$(cd /var)"
+echo -n "$(cd ..)"
